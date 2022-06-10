@@ -1,8 +1,8 @@
 # 2rpdesafio
 - INSTALAÇÃO DOCKER
-sudo yum install -y docker
-sudo systemctl start docker
-sudo systemctl enable docker
+ sudo yum install -y docker
+ sudo systemctl start docker
+ sudo systemctl enable docker
  
 - TESTE
 sudo docker run hello-world 
